@@ -4,6 +4,10 @@
   <artifactId>minimum-triangle-paths</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Minimum Triangle Paths</name>
+  <configuration>
+    <source>1.7</source>
+    <target>1.7</target>
+  </configuration>
   <dependencies>
   	<dependency>
   		<groupId>jgrapht</groupId>
